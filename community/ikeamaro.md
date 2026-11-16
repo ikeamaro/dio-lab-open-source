@@ -35,7 +35,7 @@ Trabalho com Power BI e Excel para transformar dados brutos em dashboards claros
 
 
 🚀 Quer ver meus projetos?  
-Acesse meu perfil: [github.com/kelvincamargo]()
+Acesse meu perfil: [https://github.com/ikeamaro]()
 
 ## 🤝 Conecte-se comigo
 
