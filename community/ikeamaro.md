@@ -23,7 +23,7 @@ Trabalho com Power BI e Excel para transformar dados brutos em dashboards claros
 | Tecnologia | Nível        | Progresso         |
 |------------|--------------|-------------------|
 | SQL        | Intermediário | █████████░░░░░ 60% |
-| Pyhyon | Em aprendizado | ███████░░░░░░ 20% |
+| Pyhton | Em aprendizado | ███████░░░░░░ 20% |
 | Excel        | Intermediário   | ██████░░░░░░░ 60% |
 | MySQL      | Intermediário  | ██████░░░░░░░ 50% |
 | Git/GitHub | Intermediário | █████████░░░░ 50% |
